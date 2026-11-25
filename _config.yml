@@ -1,0 +1,3 @@
+# GitHub Pages: publish the pages only, not the repo's notes.
+exclude:
+  - README.md
